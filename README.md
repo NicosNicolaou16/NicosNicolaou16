@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Nicos Nicolaou,
+### Hi there 👋, I'm Nicos Nicolaou,
 #### I'm Senior Software Engineer, Android and Flutter Developer.
 #### I love Koltin and Dart Languages, I'm looking to improve my code skill.
 <!--
