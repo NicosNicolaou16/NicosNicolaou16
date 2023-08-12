@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nicos Nicolaou,
 #### I'm Senior Software Engineer, Android and Flutter Developer.
-#### I love Koltin and Dart Languages, I'm looking to improve my code skill.
+#### I love Koltin and Dart Languages, I'm looking to improve my coding skill.
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
