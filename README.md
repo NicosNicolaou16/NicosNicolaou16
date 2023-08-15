@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nicos Nicolaou, 
-### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐕🐶🖥
+### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥
 #### I'm Senior Software Engineer, Android and Flutter Developer.
 #### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
 <!--
