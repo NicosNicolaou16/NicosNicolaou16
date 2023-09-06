@@ -2,8 +2,8 @@
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥
 #### I'm Senior Software Engineer, Android and Flutter Developer.
 #### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false" />
+<div style="display: inline; flex-direction: row;">
+ <img class="img" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&hide_border=true&disable_animations=false" />
  <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" />
 </div>
 
