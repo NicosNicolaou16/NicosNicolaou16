@@ -2,7 +2,7 @@
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥
 #### I'm Senior Software Engineer, Android and Flutter Developer.
 #### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
-<p align="center">
+<p align="left">
     <a href="https://git.io/streak-stats"><img width="19%" height="19%" alt="Github Stats" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false"></a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="65%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
@@ -14,9 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ### Check my Library
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img width="19%" height="19%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight"></a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
