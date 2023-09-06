@@ -2,14 +2,10 @@
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥
 #### I'm Senior Software Engineer, Android and Flutter Developer.
 #### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
-<div style="display: inline-block;">
- <img class="img" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&hide_border=true&disable_animations=false" />
- <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" />
-</div>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight)-->
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight)
 
 ### Check my Library
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
