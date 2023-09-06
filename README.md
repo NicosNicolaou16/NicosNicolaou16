@@ -5,7 +5,6 @@
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false" />
  &nbsp;
- &nbsp;
  <img class="img" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" />
 </div>
 
