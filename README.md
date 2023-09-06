@@ -7,9 +7,9 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="65%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight)-->
 
 ### Check my Library
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
