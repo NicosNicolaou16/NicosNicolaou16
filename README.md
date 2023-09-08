@@ -3,6 +3,14 @@
 ### I'm Senior Software Engineer, Android and Flutter Developer.
 ### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
 
+### 🤝 Connect Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicos-nicolaou-a16720aa)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicolaou_nicos)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nicosnicolaou)
+
+### 👨‍💻 Programming Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,sublime)
+
 ### 📈 My Profile Statistics
 <p align="left">
     <a href="https://git.io/streak-stats"><img width="21%" height="21%" alt="Github Stats" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
