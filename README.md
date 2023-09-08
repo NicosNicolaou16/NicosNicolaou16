@@ -23,8 +23,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/NicosNicolaou16/ImagePickerAndroid)-->
 
-### 📚 Check my Libraries/Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/NicosNicolaou16/ImagePickerAndroid)
+<!--### 📚 Check my Libraries/Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/NicosNicolaou16/ImagePickerAndroid)-->
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
