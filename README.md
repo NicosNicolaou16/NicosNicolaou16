@@ -17,8 +17,19 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
 
-### 📚 Check my Libraries/Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true)](https://github.com/NicosNicolaou16/ImagePickerAndroid)
+### 📚 Check some of my Libraries/Repositories
+<p align="left">
+    <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img width="40%" height="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/SampleRoomDatabaseWithRetrofit"><img width="40%" height="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabaseWithRetrofit&theme=tokyonight&hide_border=true"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/NicosNicolaou16/SampleRoomDatabase"><img width="40%" height="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabase&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom"><img width="40%" height="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true"></a>
+</p>
+<p align="left">
+    <a href="https://github.com/NicosNicolaou16/SampleDriftDatabaseWithBlocPattern"><img width="40%" height="40%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleDriftDatabaseWithBlocPattern&theme=tokyonight&hide_border=true"></a>
+</p>
+
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
