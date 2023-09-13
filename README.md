@@ -24,7 +24,7 @@
 
 ### 📚 Check some of my Repositories
 <p align="left">
-    <a href="https://github.com/NicosNicolaou16/SampleRoomDatabase"><img width="45%" height="48.5%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabase&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/SampleRoomDatabase"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabase&theme=tokyonight&hide_border=true"></a>
     <a href="https://github.com/NicosNicolaou16/SampleRoomDatabaseWithRetrofit"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabaseWithRetrofit&theme=tokyonight&hide_border=true"></a>
 </p>
 <p align="left">
