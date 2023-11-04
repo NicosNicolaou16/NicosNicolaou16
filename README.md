@@ -21,7 +21,8 @@
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift&hide_progress=false&theme=tokyonight)
+<p align="left">
+    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift&hide_progress=false&theme=tokyonight"></a>
 
 ### 📚 Check my Libraries
 <p align="left">
