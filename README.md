@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,cmake&hide_progress=false&theme=tokyonight"></a>
+    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake&hide_progress=false&theme=tokyonight"></a>
 
 ### 📚 Check my Libraries
 <p align="left">
