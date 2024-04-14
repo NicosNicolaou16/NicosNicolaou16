@@ -45,6 +45,7 @@
     <a href="https://github.com/NicosNicolaou16/SampleRoomDatabaseWithRetrofit"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabaseWithRetrofit&theme=tokyonight&hide_border=true"></a>
 </p>
 
+[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
