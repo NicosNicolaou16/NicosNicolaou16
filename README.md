@@ -26,6 +26,8 @@
 <p align="left">
     <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake&hide_progress=false&theme=tokyonight"></a>
 
+[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)
+
 ### 📚 Check my Libraries
 <p align="left">
     <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
@@ -44,10 +46,6 @@
     <a href="https://github.com/NicosNicolaou16/SampleRoomDatabase"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabase&theme=tokyonight&hide_border=true"></a>
     <a href="https://github.com/NicosNicolaou16/SampleRoomDatabaseWithRetrofit"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleRoomDatabaseWithRetrofit&theme=tokyonight&hide_border=true"></a>
 </p>
-
-[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)
-
-<a href="https://stardev.io/developers/NicosNicolaou16"><img alt="Check out NicosNicolaou16's profile on stardev.io" src="https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg" /></a>
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
