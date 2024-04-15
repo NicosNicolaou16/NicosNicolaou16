@@ -26,7 +26,7 @@
 <p align="left">
     <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake&hide_progress=false&theme=tokyonight"></a>
 
-[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)
+<!--[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)-->
 
 ### 📚 Check my Libraries
 <p align="left">
