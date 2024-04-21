@@ -65,7 +65,7 @@
 
 ![Nicos's GitHub stats](https://github-stats-alpha.vercel.app/api?username=NicosNicolaou16)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **NicosNicolaou16/NicosNicolaou16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
