@@ -3,6 +3,8 @@
 ### I'm Senior Software Engineer, Android and Flutter Developer.
 ### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
 
+[![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
+
 ### 📱 My App
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.map.nicos.mymap)
 
