@@ -3,6 +3,7 @@
 ### I'm Senior Software Engineer, Android and Flutter Developer.
 ### I love Koltin and Dart Languages, I'm looking to improve my coding skills every day.
 
+[![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
 [![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
 
 ### 📱 My App
