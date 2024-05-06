@@ -18,7 +18,7 @@
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nicosnicolaou16)
 
 ### 🤝 Google Developer Profile
-![Static Badge](https://img.shields.io/badge/Developer_Profile-green?style=for-the-badge&label=Google&link=https%3A%2F%2Fdevelopers.google.com%2Fprofile%2Fu%2Fnicolaou_nicos)
+[![Static Badge](https://img.shields.io/badge/Developer_Profile-blue?style=for-the-badge&label=Google)](https://g.dev/nicolaou_nicos)
 
 ### 👨‍💻 Programming Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,sublime)
