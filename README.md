@@ -37,6 +37,7 @@
 ### 📚 Check my Libraries
 <p align="left">
     <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/percentages_with_animation"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true"></a>
 </p>
 
 ### 📚 Check some of my Repositories
