@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby&hide_progress=false&theme=tokyonight"></a>
+    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript&hide_progress=false&theme=tokyonight"></a>
     <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="29.3%" height="29.3%" alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
