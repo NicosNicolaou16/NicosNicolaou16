@@ -1,6 +1,6 @@
 ### Hi there 👋, and welcome to my GitHup profile, I'm Nicos Nicolaou and I'm from Nicosia, Cyprus. I'm pasionate Senior Software Engeering, Android and Flutter Developer. I love to writing code, trying and learning new technologies about Android Native and Flutter, so I can improve my code skills!
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
-### Check below my open source projects/libraries/packages and any feedback is welcome
+### Check below my open source projects/libraries/packages and any feedback is welcome 😉👇
 
 [![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
 [![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
