@@ -21,7 +21,7 @@
 [![Static Badge](https://img.shields.io/badge/Developer_Profile-blue?style=for-the-badge&label=Google)](https://g.dev/nicolaou_nicos)
 
 ### 👨‍💻 Programming Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,sublime)
+![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,github,bitbucket,git,sublime)
 
 ### 📈 My Profile Statistics
 <p align="left">
