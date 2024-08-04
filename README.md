@@ -2,6 +2,7 @@
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
 ### Check below my open source projects/libraries/packages and any feedback is welcome 😉👇
 
+[![Static Badge](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https://nicosnicolaou16.github.io/)](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https://nicosnicolaou16.github.io/)
 [![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
 [![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
 
