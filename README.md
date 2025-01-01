@@ -36,7 +36,7 @@
     <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="29.3%" height="29.3%" alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
-## 📚 My Libraries to Check Out
+## 📚 My Libraries/Packages to Check Out
 ### 📚 Android Libraries
 <p align="left">
     <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
