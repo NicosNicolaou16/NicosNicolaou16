@@ -1,4 +1,4 @@
-### Hi there 👋, I am Nicos Nicolaou and welcome to my GitHub profile. I am from Nicosia, Cyprus. I am pasionate Senior Software Engeering, Android and Flutter Developer. I love to writing code, trying and learning new technologies about Android Native and Flutter, so I can improve and expand my coding skills!
+### Hi there 👋, I am Nicos Nicolaou and welcome to my GitHub profile. I am from Nicosia, Cyprus. I am passionate Senior Software Engineering, Android and Flutter Developer. I love to writing code, trying and learning new technologies about Android Native and Flutter, so I can improve and expand my coding skills!
 ### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
 ### Check below my open source projects/libraries/packages and any feedback is welcome 😉👇
 
