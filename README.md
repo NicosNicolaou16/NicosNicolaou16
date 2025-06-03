@@ -38,7 +38,7 @@
 </p>
 
 > [!NOTE]
-> 💫 Enjoying the projects?
+> 💫 Enjoying the projects?  <br />
 If you found something useful or cool here, consider dropping a ⭐ — it really helps! Your support keeps the creativity flowing and the projects coming. Thanks a ton! 🙏🚀
 
 ## 📚 My Libraries/Packages to Check Out
