@@ -10,8 +10,7 @@
 
 ### 🔍 Explore My Work
 
-Check out some of my open-source **projects**, **libraries**, and **packages** below —  
-your feedback and ⭐ support are always appreciated! 😉
+### Check out some of my open-source **projects**, **libraries**, and **packages** below — your feedback and ⭐ support are always appreciated! 😉
 
 <!--[![Static Badge](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)-->
 [![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
