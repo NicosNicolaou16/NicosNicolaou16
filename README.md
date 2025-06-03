@@ -1,6 +1,17 @@
-### Hi there 👋, I am Nicos Nicolaou and welcome to my GitHub profile. I am from Nicosia, Cyprus. I am passionate Senior Software Engineering, Android and Flutter Developer. I love to writing code, trying and learning new technologies about Android Native and Flutter, so I can improve and expand my coding skills!
-### I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
-### Check below my open source projects/libraries/packages and any feedback is welcome 😉👇
+# 👋 Hi there, I'm Nicos Nicolaou – Welcome to my GitHub!
+
+I'm a passionate **Senior Software Engineer** from **Nicosia, Cyprus**, specializing in **Android** and **Flutter** development.  
+I love writing clean, efficient code and constantly exploring new technologies to level up my skills in mobile development 🚀.
+
+I build apps from scratch and explore new technologies to keep learning and improving.
+I'm especially excited about anything related to **Android Native** and **Flutter**!
+
+### 💙 I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
+
+### 🔍 Explore My Work
+
+Check out some of my open-source **projects**, **libraries**, and **packages** below —  
+your feedback and ⭐ support are always appreciated! 😉
 
 <!--[![Static Badge](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)-->
 [![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
