@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Nicos Nicolaou – Welcome to my GitHub!
 
-I'm a passionate **Senior Software Engineer** from **Nicosia, Cyprus**, specializing in **Android** and **Flutter** development.  
-I love writing clean, efficient code and constantly exploring new technologies to level up my skills in mobile development 🚀.
+### I'm a passionate **Senior Software Engineer** from **Nicosia, Cyprus**, specializing in **Android** and **Flutter** development.  
+### I love writing clean, efficient code and constantly exploring new technologies to level up my skills in mobile development 🚀.
 
-I build apps from scratch and explore new technologies to keep learning and improving.
-I'm especially excited about anything related to **Android Native** and **Flutter**!
+### I build apps from scratch and explore new technologies to keep learning and improving.
+### I'm especially excited about anything related to **Android Native** and **Flutter**!
 
 ### 💙 I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
 
