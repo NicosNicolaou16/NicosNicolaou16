@@ -37,14 +37,17 @@
 ![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,github,bitbucket,git,sublime)
 
 ### 📈 My Profile Statistics
+<!--width="21%" height="21%"-->
+<!--width="72%" height="72%"-->
 <p align="left">
-    <a href="https://git.io/streak-stats"><img width="21%" height="21%" alt="Github Stats" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
+    <a href="https://git.io/streak-stats"><img alt="Github Stats" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="72%" alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
-
+<!--width="39%" height="39%"-->
+<!--width="29.3%" height="29.3%"-->
 <p align="left">
-    <a href="https://github-readme-stats.vercel.app"><img width="39%" height="39%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript,java&hide_progress=false&theme=tokyonight"></a>
-    <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="29.3%" height="29.3%" alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
+    <a href="https://github-readme-stats.vercel.app"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript,java&hide_progress=false&theme=tokyonight"></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
 > [!NOTE]
