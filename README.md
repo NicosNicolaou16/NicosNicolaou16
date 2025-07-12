@@ -50,24 +50,24 @@
 > [!NOTE]
 > 💫 Enjoying the projects?  <br />
 If you found something useful or cool here, consider dropping a ⭐ — it really helps! Your support keeps the creativity flowing and the projects coming. Thanks a ton! 🙏🚀
-
+<!--width="45%" height="45%"-->
 ## 📚 My Libraries/Packages to Check Out
 ### 📚 Android Libraries
 <p align="left">
-    <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
-    <a href="https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true"></a>
 </p>
 
 ### 📦 Flutter Packages
 <p align="left">
-    <a href="https://github.com/NicosNicolaou16/percentages_with_animation"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true"></a>
-    <a href="https://github.com/NicosNicolaou16/dynamic_single_text_field"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/percentages_with_animation"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/dynamic_single_text_field"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true"></a>
 </p>
-<!--width="45%" height="45%"-->
+
 ## 📚 Important Repositories to Check Out
 <p align="left">
-    <a href="https://github.com/NicosNicolaou16/ShipsWithComposeMvvmUIStatesAndRepository"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ShipsWithComposeMvvmUIStatesAndRepository&theme=tokyonight&hide_border=true"></a>
-    <a href="https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState"><img width="45%" height="45%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleBlocPatternAndDriftWithSingleState&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/ShipsWithComposeMvvmUIStatesAndRepository"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ShipsWithComposeMvvmUIStatesAndRepository&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleBlocPatternAndDriftWithSingleState&theme=tokyonight&hide_border=true"></a>
 </p>
 <p align="left">
     <a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true"></a>
