@@ -81,7 +81,7 @@ If you found something useful or cool here, consider dropping a ⭐ — it reall
     <a href="https://github.com/NicosNicolaou16/Pokedex_Compose"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose&theme=tokyonight&hide_border=true"></a>
 </p>
 <p align="left">
-    <a href="https://github.com/NicosNicolaou16/SampleRoomDatabaseWithRetrofit"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_XR&theme=tokyonight&hide_border=true"></a>
+    <a href="https://github.com/NicosNicolaou16/Pokedex_Compose_XR"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_XR&theme=tokyonight&hide_border=true"></a>
     <a href="https://github.com/NicosNicolaou16/Pokedex_Flutter"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Flutter&theme=tokyonight&hide_border=true"></a>
 </p>
 <p align="left">
