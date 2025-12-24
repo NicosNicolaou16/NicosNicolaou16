@@ -50,9 +50,9 @@
     <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="35% alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
-> [!NOTE]
+<!-- > [!NOTE]
 > 💫 Enjoying the projects?  <br />
-If you found something useful or cool here, consider dropping a ⭐ — it really helps! Your support keeps the creativity flowing and the projects coming. Thanks a ton! 🙏🚀
+If you found something useful or cool here, consider dropping a ⭐ — it really helps! Your support keeps the creativity flowing and the projects coming. Thanks a ton! 🙏🚀-->
 <!--width="45%" height="45%"-->
 ## 📚 My Libraries/Packages to Check Out
 ### 📚 Android Libraries
