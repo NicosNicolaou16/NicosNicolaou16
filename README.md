@@ -112,9 +112,12 @@ These repositories focus on **real-world architecture**, not toy examples.
 </p>
 
 <p align="left">
-  <a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NicosNicolaou16/Ink_Api_Compose">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Ink_Api_Compose&theme=tokyonight&hide_border=true">
   </a>
+  <!--<a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true" />
+  </a>-->
   <a href="https://github.com/NicosNicolaou16/Pokedex_Compose_Multi_Module">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_Multi_Module&theme=tokyonight&hide_border=true" />
   </a>
