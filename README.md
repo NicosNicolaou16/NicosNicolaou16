@@ -56,7 +56,7 @@ These projects best represent my experience and engineering approach.
 
 **Android**
 - Kotlin, Jetpack Compose
-- MVVM, Repository Pattern, UI State Management
+- MVVM, Repository Pattern, UI State Management, Modularization
 - Coroutines, Flow, LiveData
 - Retrofit, Room
 - Hilt / Dagger
@@ -64,7 +64,7 @@ These projects best represent my experience and engineering approach.
 
 **Flutter**
 - Dart, Flutter Widgets
-- BLoC, MVVM, Modularization
+- BLoC
 - Dio, Drift
 - Get It
 
