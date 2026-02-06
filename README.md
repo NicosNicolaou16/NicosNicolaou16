@@ -1,3 +1,161 @@
+# 👋 Hi, I'm Nicos Nicolaou
+
+## Senior Android & Flutter Engineer  
+📍 Nicosia, Cyprus  
+
+I’m a **Senior Software Engineer and Android Developer** specializing in **Kotlin, Jetpack Compose**, and **Flutter** mobile app development.  
+I design and build **scalable, maintainable mobile applications** using clean architecture, modern state management, and best practices.
+
+I enjoy building apps from scratch, creating reusable libraries, and exploring new technologies to continuously improve as a mobile engineer 🚀  
+I’m especially passionate about **Android Native development** and **Flutter cross-platform solutions**.
+
+💙 I love my 👨‍👩‍👧‍👦👨‍💻🎸🐶🖥🎮🪐
+
+---
+
+[![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
+[![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
+
+---
+
+## 🔍 What You'll Find Here
+- Production-ready **Android & Flutter applications**
+- **Jetpack Compose** UI and custom components
+- **Clean Architecture** (MVVM, Repository, BLoC)
+- Open-source **libraries & packages**
+- Experiments with **performance, animations, and architecture**
+
+If you find something useful, a ⭐ is always appreciated 😉
+
+---
+
+## ⭐ Featured Projects
+These projects best represent my experience and engineering approach.
+
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/Pokedex_Compose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/Carousel_Compose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Carousel_Compose&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/Pokedex_Flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Flutter&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack
+
+**Android**
+- Kotlin, Jetpack Compose
+- MVVM, Repository Pattern, UI State Management
+- Coroutines, Flow, LiveData
+- Retrofit, Room
+- Hilt / Dagger
+- Navigation Compose
+
+**Flutter**
+- Dart, Flutter Widgets
+- BLoC, MVVM, Modularization
+- Dio, Drift
+- Get It
+
+**Build & DevOps**
+- Gradle, KSP
+- R8 / ProGuard
+- GitHub Actions (CI/CD)
+
+---
+
+## 📚 Open Source Libraries & Packages
+
+### 📱 Android Libraries
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+### 📦 Flutter Packages
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/percentages_with_animation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/dynamic_single_text_field">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📂 Architecture & Sample Projects
+These repositories focus on **real-world architecture**, not toy examples.
+
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/ShipsWithComposeMvvmUIStatesAndRepository">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ShipsWithComposeMvvmUIStatesAndRepository&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleBlocPatternAndDriftWithSingleState&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/NicosNicolaou16/Pokedex_Compose_Multi_Module">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_Multi_Module&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📱 Published App
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.map.nicos.mymap)
+
+---
+
+## 🤝 Google Developer Profile
+[![Developer Profile](https://img.shields.io/badge/Developer_Profile-blue?style=for-the-badge&label=Google)](https://g.dev/nicolaou_nicos)
+
+---
+
+## 🤝 Connect with Me
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nicos_nicolaou)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/nicolaou_nicos)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicos-nicolaou-a16720aa)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nicosnicolaou)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nicosnicolaou16)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nicosnicolaou16)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://androiddev.social/@nicolaou_nicos)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/nicolaounicos.bsky.social)
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" width="75%" />
+</p>
+
+---
+
+⭐ **Open to collaboration, mentoring, and interesting Android & Flutter projects.**
+
+
+
+<!--
 # 👋 Hi there, I'm Nicos Nicolaou – Welcome to my GitHub!
 
 ### I'm a passionate **Senior Software Engineer** from **Nicosia, Cyprus**, specializing in **Android** and **Flutter** development.  
@@ -12,7 +170,7 @@
 
 ### Check out some of my open-source **projects**, **libraries**, and **packages** below — your feedback and ⭐ support are always appreciated! 😉
 
-<!--[![Static Badge](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)-->
+
 [![committers.top badge](https://user-badge.committers.top/cyprus/NicosNicolaou16.svg)](https://user-badge.committers.top/cyprus/NicosNicolaou16)
 [![views](https://komarev.com/ghpvc/?username=NicosNicolaou16)](https://komarev.com/ghpvc/?username=NicosNicolaou16)
 
@@ -20,7 +178,6 @@
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.map.nicos.mymap)
 
 ### 🤝 Connect with Me
-<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicolaou_nicos)-->
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nicos_nicolaou)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/nicolaou_nicos)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicos-nicolaou-a16720aa)
@@ -37,23 +194,17 @@
 ![My Skills](https://skillicons.dev/icons?i=kotlin,flutter,dart,java,androidstudio,postman,github,bitbucket,git,sublime)
 
 ### 📈 My Profile Statistics
-<!--width="21%" height="21%"-->
-<!--width="72%" height="72%"-->
+
 <p align="left">
     <a href="https://git.io/streak-stats"><img width="21% alt="Github Stats" src="https://streak-stats.demolab.com?user=NicosNicolaou16&theme=tokyonight&hide_current_streak=true&hide_longest_streak=true&card_width=200&disable_animations=false&hide_border=true"></a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img width="70% alt="Github Streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight"></a>
 </p>
-<!--width="39%" height="39%"-->
-<!--width="29.3%" height="29.3%"-->
+
 <p align="left">
     <a href="https://github-readme-stats.vercel.app"><img width="45% alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicosNicolaou16&hide=objective-c,swift,c,c%2B%2B,cmake,scss,html,ruby,javascript,java&hide_progress=false&theme=tokyonight"></a>
     <a href="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"><img width="35% alt="Nicos's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NicosNicolaou16&show_icons=true&hide_rank=true&theme=tokyonight&&show=prs_merged,prs_merged_percentage"></a> 
 </p>
 
-<!-- > [!NOTE]
-> 💫 Enjoying the projects?  <br />
-If you found something useful or cool here, consider dropping a ⭐ — it really helps! Your support keeps the creativity flowing and the projects coming. Thanks a ton! 🙏🚀-->
-<!--width="45%" height="45%"-->
 ## 📚 My Libraries/Packages to Check Out
 ### 📚 Android Libraries
 <p align="left">
@@ -92,6 +243,11 @@ If you found something useful or cool here, consider dropping a ⭐ — it reall
     <a href="https://github.com/NicosNicolaou16/Ink_Api_Compose"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Ink_Api_Compose&theme=tokyonight&hide_border=true"></a>
     <a href="https://github.com/NicosNicolaou16/Carousel_Compose"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Carousel_Compose&theme=tokyonight&hide_border=true"></a>
 </p>
+-->
+
+<!--[![Static Badge](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)](https://img.shields.io/badge/my-website%2Fportfolio-green?link=https%3A%2F%2Fnicosnicolaou16.github.io%2F)-->
+
+<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nicolaou_nicos)-->
 
 <!--[![Check out NicosNicolaou16's profile on stardev.io](https://stardev.io/developers/NicosNicolaou16/badge/languages/global.svg)](https://stardev.io/developers/NicosNicolaou16)
 
