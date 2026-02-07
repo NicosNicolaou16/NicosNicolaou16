@@ -149,7 +149,8 @@ These repositories focus on **real-world architecture**, not toy examples.
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" width="75%" />
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicosNicolaou16&theme=tokyonight" /></a>
+  <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicosNicolaou16&theme=tokyonight" /></a>
 </p>
 
 ---
