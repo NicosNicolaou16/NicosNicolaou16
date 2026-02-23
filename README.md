@@ -31,22 +31,21 @@ If you find something useful, a ⭐ is always appreciated 😉
 
 ## ⭐ Featured Projects
 These projects best represent my experience and engineering approach.
-
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/Pokedex_Compose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/Carousel_Compose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Carousel_Compose&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Carousel_Compose&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/Pokedex_Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Flutter&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Flutter&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -80,20 +79,20 @@ These projects best represent my experience and engineering approach.
 ### 📱 Android Libraries
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=ImagePickerAndroid&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ### 📦 Flutter Packages
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/percentages_with_animation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=percentages_with_animation&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/dynamic_single_text_field">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -104,22 +103,22 @@ These repositories focus on **real-world architecture**, not toy examples.
 
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/ShipsWithComposeMvvmUIStatesAndRepository">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=ShipsWithComposeMvvmUIStatesAndRepository&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=ShipsWithComposeMvvmUIStatesAndRepository&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/SampleBlocPatternAndDriftWithSingleState">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleBlocPatternAndDriftWithSingleState&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleBlocPatternAndDriftWithSingleState&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/NicosNicolaou16/Ink_Api_Compose">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Ink_Api_Compose&theme=tokyonight&hide_border=true">
+    <img alt="Github Stats" src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Ink_Api_Compose&theme=tokyonight&hide_border=true">
   </a>
   <!--<a href="https://github.com/NicosNicolaou16/SampleComposeWithHiltAndRoom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=SampleComposeWithHiltAndRoom&theme=tokyonight&hide_border=true" />
   </a>-->
   <a href="https://github.com/NicosNicolaou16/Pokedex_Compose_Multi_Module">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_Multi_Module&theme=tokyonight&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Compose_Multi_Module&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
