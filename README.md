@@ -84,6 +84,9 @@ These projects best represent my experience and engineering approach.
   <a href="https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=PercentagesWithAnimationCompose&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="[https://github.com/NicosNicolaou16/PercentagesWithAnimationCompose](https://github.com/NicosNicolaou16/PitchKit)">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=PitchKit&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ### 📦 Flutter Packages
