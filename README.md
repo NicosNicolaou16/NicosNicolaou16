@@ -97,6 +97,9 @@ These projects best represent my experience and engineering approach.
   <a href="https://github.com/NicosNicolaou16/dynamic_single_text_field">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=dynamic_single_text_field&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/NicosNicolaou16/pitch_kit">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=pitch_kit&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 ---
