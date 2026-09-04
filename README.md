@@ -41,8 +41,8 @@ These projects best represent my experience and engineering approach.
 </p>
 
 <p align="left">
-  <a href="https://github.com/NicosNicolaou16/Carousel_Compose">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Carousel_Compose&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/NicosNicolaou16/Material_3_Expressive_List">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Material_3_Expressive_List&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/NicosNicolaou16/Pokedex_Flutter">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=NicosNicolaou16&repo=Pokedex_Flutter&theme=tokyonight&hide_border=true" />
